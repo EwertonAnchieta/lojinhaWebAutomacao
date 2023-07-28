@@ -1,13 +1,9 @@
 package modulos.produtos;
 
-import com.sun.source.tree.AssertTree;
 import org.junit.jupiter.api.*;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.devtools.v85.log.Log;
 import paginas.LoginPage;
-
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
